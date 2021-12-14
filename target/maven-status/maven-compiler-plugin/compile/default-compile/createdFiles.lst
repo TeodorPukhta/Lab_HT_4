@@ -1,0 +1,9 @@
+util\WebDriverSingleton$1.class
+pages\BasePage.class
+pages\SearchResultPage.class
+util\PropertiesReader.class
+model\Products.class
+model\Product.class
+pages\HomePage.class
+util\WebDriverSingleton.class
+util\XMLReader.class
